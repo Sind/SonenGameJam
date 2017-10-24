@@ -12,14 +12,14 @@
 	<p>Make sure that everyone on the theme is registered!</br>Without registration, you are not elligible to win, and also we won't be able to order enough pizza.</p>
 <p>To register, follow this link: <a href="http://tinyurl.com/sonengamejamregistrations">http://tinyurl.com/sonengamejamregistrations</a></p>-->
 	<h2>Update</h2>
-	<p>The Fall 2015 GameJam is now over! Thanks everyone for participating, we hope you had a great time!
+    <p> A new gameJam: this time in collaboration with ifiLan.
 	<br>
 	<br>
 	<br>
 	<br><strong>The games for this gamejam have been uploaded, and you can now find them in the entries tab!</strong>
 	<!--<br><strong>The games for this semester have finally been uploaded, and can be found on the entries tab!</strong><br>We might add more links over the course of the next week; be sure to notify us if something is wrong or missing.</p> -->
 	<h2>Date</h2>
-	<p>The weekend on the <strong>23rd - 25th of October</strong> (week 43).</p>
+	<p>The weekend on the <strong>3. - 5. November</strong> (week 43).</p>
 	<p>Theme announcement is at 17:00 on Friday, and the delivery deadline is at 17:00 on Sunday</p>
 	<p>However, registrations are open from 14:00, and useful talks will also be held before the theme announcement. Check the <a href='/calendar/'>Calendar</a> page for a full overview.</p>
 	
@@ -54,7 +54,7 @@
 
 	<h2>Matchmaking</h2>
 	<p>Still missing that special someone on your team that can make you feel all warm and fuzzy inside (or at least turn your pixel-poop into something you might dare to call "art" when nobody is listening?).</p>
-	<p>Show up at 14:00 on Friday the 23rd, or chip an email to <a href='mailto:jwringstad@gmail.com'>jwringstad@gmail.com</a></p>
+	<p>Show up at 14:00 on Friday the 23rd, or chip an email to <a href='mailto:krister.borge@gmail.com'>krister.borge@gmail.com</a></p>
 	
 	<h2>Pizza, coffee & other foods</h2>
 	<p>Free pizza will be served Sunday afternoon. Please inform us beforehand if you've got any specific dietary needs.</p>
